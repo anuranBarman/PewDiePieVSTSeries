@@ -1,8 +1,11 @@
-# pewdiepie_vs_tseries
+# PewDiePie VS T-Series
 
-A new Flutter project.
+Flutter app to watch LIVE subscriber count of PewDiePie vs T-Series.
 
-## Getting Started
+## Usage
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Before running the app please use your own YouTube Data API v3 `API_KEY` in `main.dart` on line `42` and `43`
+
+## Screenshot
+
+
