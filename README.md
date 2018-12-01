@@ -8,4 +8,5 @@ Before running the app please use your own YouTube Data API v3 `API_KEY` in `mai
 
 ## Screenshot
 
+![PewDiePieVSTSeries](https://github.com/anuranBarman/PewDiePieVSTSeries/blob/master/screenshots/pewdiepievstseries.jpeg "PewDiePieVSTSeries")
 
